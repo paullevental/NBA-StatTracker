@@ -9,7 +9,7 @@ export default function College() {
         <>
             <Header />
             <SearchBar />
-            <h2>Players By College Page</h2>
+            <h2>Players By Name Page</h2>
         </>
     )
 }
